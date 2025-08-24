@@ -1,0 +1,3 @@
+FROM nomic-embed-text:latest
+PARAMETER gpu_layers 999
+PARAMETER num_ctx 2048
